@@ -23,3 +23,9 @@ In past hackathons Tim had used Twillio for doing phone notifications, but for t
 
 ## Whats Next
 In continuing this project we would like to further polish our design to make an enclosed power source. We would also like to fully build out the web app with auth functionality and make a separate landing page for patient and care taker. It would also be cool to add more notification alert types, like sending the care taker updates when the patient takes or misses their medication, but for the hackathon we skipped doing this as Pushcut has a $2 monthly subscriptions and we didn't want to pay for it on more than 1 device :)
+
+## Images!
+![Image1](PillPal-Images/img1.png)
+![Image2](PillPal-Images/img2.png)
+![Image3](PillPal-Images/img3.png)
+![Image4](PillPal-Images/img4.png)
