@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "SF Pro";
+    src: url("/fonts/SF-Pro.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 100 900;
+}
+
+@layer base {
+  :root {
+        --radius: 0.5rem;
+    }
+}

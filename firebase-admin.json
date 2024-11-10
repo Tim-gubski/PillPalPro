@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "vitavault-ddba4",
+  "private_key_id": "9e56addbc42389d04999e006c83342dace56f657",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC/QrY0oyTDEDgb\nziji6HhyJWSJWVjr66OmGf+/UfocvwswhjvKI9t+G64iAxksI7oKxJWzuFLij6Sz\ndP5/f24r8HWUWaK4kiRUnanfSAyMTZWvUv64wK8sGpaoXtAwu2RundNcxDE975JK\niFjzn9m13kD8Uhx96tOemJKVdI7WnbtFTaPX1zO3NpwP5BJuq/ktg24fO6K3G36T\nkr2PPC1+fSqoQlyM7/zII3Dz7xkdjyBoSDSOUTuQa5a3+QKD8DyploKzavH7sPln\nNMzJPgUh+/b1dSMGz/nGRaZdQ+8mkUGzekPCcUwkN/rjgQlvvdHC1iIID3hmlCOV\nOckcsAdDAgMBAAECggEACxe6a5kes7WIG4y8cFSdT7l9eD3XW2+CQUr2u0js4afu\n5TST2Sh1PX4rfkuBtT6pNqCqMg85t2wvWD0r2Ycxg5jhqOX9+wh21PWD+bA7EhQZ\n315H6b07K6qrHD7LglgL/iJnNNUoKfhwGqSHzDF0Ngka6cd1YZQyC9u7fLGS6z2G\n06jR1iPQ9N3tt9nhP0UazRZR3qX//NStxazNU+wgApqC3oqTT7SEBx5Ca1Xs8xjF\n3fgJzvilnud9K5IkmWZCy7I9hXjpPedsmAcUFcU0dP/PU4ZBJv1kCT06ydD6Bv8Z\nkUFAdrMf+60EOIQrnRfB/PCLrQXipXxyyLGhiX7wAQKBgQD7X6kMWDzgEVVqJHaD\noNETZKjV5W6tnb66NBSXDgOiYlC5oYYwD9YJklG7Y+FiF06LWO/dSTZTyUrhFFcY\nv1PX+h5iPgfHKf3gjZgWfW2oCwJue8tfwLEJ2JQamlFukn5HEwyOitE2I6gv6rI4\noG//Mh4EocdfFQkJZVC5j1m4AQKBgQDCx9SUVe+nUaG2E5iWm1F/VMzs40OE53pc\nXBYpJmbRYAcqK3qES4r7hN6at5CxXY62JYKEdixPMP7k+5JGvieYE69FuQuyrY4F\nSbSubSILcmtEOfpExdk6PcFwWMBE6FJALRGojwHEDMCPzVcf7dsvqhMQbg54DlIs\nOkEj0OzfQwKBgQCe48OGAwxPkYVM90lWQEOHn5u8wC4qXcheCGdvZ7NSZBSkkX2x\nSYFAQZWZ/jNLfnHuUMQlOo61fUnwZZv8D4veu8GS1aSy9k78LmQQ6y1yB6t8zJEr\nsC/3ikdrXVnVq5FYOak5PHOrZfR8fTwz4O2KAFLLGLtd1X0FzF2vPPY4AQKBgBLM\nYGrUhGWcjkPZTk+yu8HTOFfgcyK/iGKjjIv6JdAtOWPLgG6GL+qoXyeFcdR8WAqi\nQh9wnEQkUWVeFjb3oTCfLbpH6qYa8+r0uxhedfuu1kVmZw3+HkHttd6W4i+EUHPb\nJaoj6yK1rFv0kGUHerD19BMQ3BqgHzQfhyvivQmrAoGBALTiMwJlF9ObJreeHaAl\nRFqENtv+axVljWCbuqoT7vaHjn0mGmlfi4L9/Xr4X3lTQ3YzvN9DhnToZKpZCqG8\ngSg6c8bLxpYW9GLD9OZSZnIKvAao+0NUNmBPMJOP6oCDkA/2eWIhiUWdIFCSFBwg\nBzjWPbht4EyWX2CYGS1LhgE1\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-phkeg@vitavault-ddba4.iam.gserviceaccount.com",
+  "client_id": "107252304931537275283",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-phkeg%40vitavault-ddba4.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

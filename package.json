@@ -1,0 +1,47 @@
+{
+  "type": "module",
+  "name": "dosely",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prod": "sudo npx remix vite:build && sudo npx remix-serve build/server/index.js",
+    "dev": "sudo npx remix dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@radix-ui/react-slot": "^1.1.0",
+    "@react-firebase/database": "^0.3.11",
+    "@remix-run/node": "^2.14.0",
+    "@remix-run/react": "^2.14.0",
+    "@remix-run/serve": "^2.14.0",
+    "axios": "^1.7.7",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.1",
+    "dotenv": "^16.4.5",
+    "firebase": "^11.0.1",
+    "firebase-admin": "^12.7.0",
+    "framer-motion": "^11.11.11",
+    "isbot": "^4.4.0",
+    "lucide-react": "^0.456.0",
+    "openai": "^4.71.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-icons": "^5.3.0",
+    "tailwind-merge": "^2.5.4",
+    "tailwindcss-animate": "^1.0.7"
+  },
+  "devDependencies": {
+    "@remix-run/dev": "^2.14.0",
+    "@types/react": "^18.3.12",
+    "autoprefixer": "^10.4.20",
+    "esbuild": "^0.24.0",
+    "postcss": "^8.4.47",
+    "tailwindcss": "^3.4.14",
+    "tsx": "^4.19.2",
+    "vite": "^5.4.10"
+  }
+}
