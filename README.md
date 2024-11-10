@@ -1,4 +1,4 @@
-# PillPalPro
+# PillPal Pro
 HackPrinceton Fall 2024 Project
 
 ## Motivation
